@@ -2,6 +2,22 @@
 
 A Laravel-based class schedule management system with timetable view, conflict detection, and filtering capabilities.
 
+Repository: https://github.com/0xyz-exe/class-schedule-app-laravel
+
+## Screenshots
+
+### Visual Timetable Grid
+![Timetable grid](docs/screenshots/01_timetable_grid.png)
+
+### Schedule List & Filtering
+![Schedule list](docs/screenshots/02_schedule_list.png)
+
+### Add & Edit Schedule
+![Schedule form](docs/screenshots/03_schedule_form.png)
+
+### Authentication
+![Authentication](docs/screenshots/04_login.png)
+
 ## Features
 
 - ✅ User authentication (Laravel Breeze)
