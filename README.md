@@ -6,17 +6,12 @@ Repository: https://github.com/0xyz-exe/class-schedule-app-laravel
 
 ## Screenshots
 
-### Visual Timetable Grid
-![Timetable grid](docs/screenshots/01_timetable_grid.png)
-
-### Schedule List & Filtering
-![Schedule list](docs/screenshots/02_schedule_list.png)
-
-### Add & Edit Schedule
-![Schedule form](docs/screenshots/03_schedule_form.png)
-
-### Authentication
-![Authentication](docs/screenshots/04_login.png)
+| Tampilan | Preview |
+|---|---|
+| **Daftar Jadwal Kuliah & Filter Akademik**<br>Tabel utama jadwal perkuliahan dengan filter hari (Senin-Sabtu) dan semester, menampilkan kode mata kuliah, dosen pengampu, jam perkuliahan, ruangan, dan bobot SKS | ![Daftar Jadwal Kuliah & Filter Akademik](docs/screenshots/01-dashboard-overview.png) |
+| **Matriks Jadwal Mingguan (Timetable Calendar Grid)**<br>Visualisasi kalender mingguan interaktif berbasis grid waktu dan hari dengan kartu mata kuliah terorganisir per slot jadwal perkuliahan | ![Matriks Jadwal Mingguan (Timetable Calendar Grid)](docs/screenshots/02-class-timetable-matrix.png) |
+| **Formulir Penambahan Jadwal & Deteksi Konflik**<br>Formulir entri jadwal baru dengan pemilihan hari, rentang waktu perkuliahan, dan validasi otomatis pencegahan jadwal bentrok (conflict detection) | ![Formulir Penambahan Jadwal & Deteksi Konflik](docs/screenshots/03-create-schedule-form.png) |
+| **Manajemen & Pembaruan Jadwal Mata Kuliah**<br>Formulir edit data jadwal perkuliahan terisi lengkap (pre-filled) untuk penyesuaian ruangan, jam kuliah, atau pergantian dosen pengampu | ![Manajemen & Pembaruan Jadwal Mata Kuliah](docs/screenshots/04-edit-schedule-management.png) |
 
 ## Features
 
